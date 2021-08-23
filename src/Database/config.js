@@ -1,5 +1,4 @@
 import * as firebase from "firebase";
-
 const firebaseConfig = {
   apiKey: "AIzaSyA-3vvi56ONK_W9nQcjGp1haZFQKIV5eTs",
   authDomain: "photowall-db62d.firebaseapp.com",
